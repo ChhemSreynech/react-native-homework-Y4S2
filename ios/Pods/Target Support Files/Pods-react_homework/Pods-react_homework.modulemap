@@ -1,0 +1,6 @@
+module Pods_react_homework {
+  umbrella header "Pods-react_homework-umbrella.h"
+
+  export *
+  module * { export * }
+}
